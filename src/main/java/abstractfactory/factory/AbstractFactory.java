@@ -1,6 +1,7 @@
 package abstractfactory.factory;
 
 import abstractfactory.products.BikeType;
+import abstractfactory.products.Brand;
 import abstractfactory.products.CarType;
 
 public abstract class AbstractFactory {

@@ -3,7 +3,7 @@ package abstractfactory;
 import org.junit.Test;
 
 import abstractfactory.factory.AbstractFactory;
-import abstractfactory.factory.Brand;
+import abstractfactory.products.Brand;
 
 public class AbstractFactoryTest {
 

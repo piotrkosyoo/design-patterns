@@ -1,5 +1,7 @@
 package abstractfactory.factory;
 
+import abstractfactory.products.Brand;
+
 public final class FactorySingleton {
 
 	private static AbstractFactory bmw;
