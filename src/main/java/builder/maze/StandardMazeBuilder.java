@@ -17,6 +17,7 @@ public class StandardMazeBuilder extends MazeBuilder {
 	private Maze currentMaze;
 
 	public StandardMazeBuilder() {
+		super();
 		currentMaze = null;
 	}
 
